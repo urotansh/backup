@@ -1,0 +1,28 @@
+/**
+ * 
+ */
+
+/**
+ * @author internousdev
+ *
+ */
+public class Main {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+	public static void hello(String name){
+	System.out.println(name+"さん、こんにちは");
+System.out.println("メソッドを呼び出します");
+hello("湊");
+hello("朝香");
+hello("菅原");
+System.out.println("メソッドの呼び出しが終わりました。");
+
+
+}
+
+	}
+
+}
