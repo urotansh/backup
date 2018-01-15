@@ -1,0 +1,5 @@
+package com.internosdev.login.dao;
+
+public class LoginDAO {
+
+}
