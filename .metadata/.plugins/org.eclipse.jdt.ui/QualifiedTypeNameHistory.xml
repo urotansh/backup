@@ -5,4 +5,5 @@
 <fullyQualifiedTypeName name="java.io.InputStreamReader"/>
 <fullyQualifiedTypeName name="java.sql.ResultSet"/>
 <fullyQualifiedTypeName name="com.internousdev.login.util.DBConnector"/>
+<fullyQualifiedTypeName name="com.internousdev.template3.util.DBConnector"/>
 </qualifiedTypeNameHistroy>

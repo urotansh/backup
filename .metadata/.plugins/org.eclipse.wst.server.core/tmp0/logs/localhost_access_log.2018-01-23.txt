@@ -22,3 +22,12 @@
 0:0:0:0:0:0:0:1 - - [23/Jan/2018:17:20:10 +0900] "POST /template2/LoginAction.action HTTP/1.1" 200 1486
 0:0:0:0:0:0:0:1 - - [23/Jan/2018:17:20:11 +0900] "POST /template2/HomeAction.action HTTP/1.1" 200 2101
 0:0:0:0:0:0:0:1 - - [23/Jan/2018:17:20:14 +0900] "POST /template2/LoginAction.action HTTP/1.1" 200 1486
+127.0.0.1 - - [23/Jan/2018:17:53:08 +0900] "GET / HTTP/1.1" 404 1019
+0:0:0:0:0:0:0:1 - - [23/Jan/2018:17:53:10 +0900] "GET /template2/ HTTP/1.1" 200 1530
+0:0:0:0:0:0:0:1 - - [23/Jan/2018:17:53:12 +0900] "POST /template2/HomeAction.action;jsessionid=884CC7B8CE43AA4547CCA5069B817D34 HTTP/1.1" 200 2101
+0:0:0:0:0:0:0:1 - - [23/Jan/2018:17:53:13 +0900] "GET /template2/UserCreateAction.action HTTP/1.1" 200 2389
+0:0:0:0:0:0:0:1 - - [23/Jan/2018:17:53:22 +0900] "POST /template2/UserCreateConfirmAction.action HTTP/1.1" 200 2425
+0:0:0:0:0:0:0:1 - - [23/Jan/2018:17:53:26 +0900] "POST /template2/UserCreateConfirmAction.action HTTP/1.1" 200 2262
+0:0:0:0:0:0:0:1 - - [23/Jan/2018:17:53:28 +0900] "POST /template2/UserCreateCompleteAction.action HTTP/1.1" 200 1569
+0:0:0:0:0:0:0:1 - - [23/Jan/2018:17:53:29 +0900] "GET /template2/HomeAction.action HTTP/1.1" 200 2101
+0:0:0:0:0:0:0:1 - - [23/Jan/2018:17:53:33 +0900] "POST /template2/LoginAction.action HTTP/1.1" 200 2685
